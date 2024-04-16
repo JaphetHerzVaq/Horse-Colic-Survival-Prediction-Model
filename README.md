@@ -8,7 +8,7 @@ The purpose of the model is to predict if a horse will survive based upon past m
 Acknowledgements:
 The dataset was originally published by the UCI Machine Learning Database http://archive.ics.uci.edu/ml/datasets/Horse+Colic
 
-Dataset Description
+# Dataset Description
 The data contains information on horses' health conditions, treatment course, medical tests (including blood, fecal) and inspections of fluids and gasses.
 
 Surgery: Did the horse was treated with surgery or not?
